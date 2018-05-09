@@ -2,7 +2,7 @@
 Login en Twitter y publicar un tweet usando selenium y python
 
 
-## Instalacion
+## Instalación
 
 Para poder ejecutar el ejercicio es necesario tener selenium, python, firefox, y la libreria geckodriver
 
